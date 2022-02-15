@@ -44,3 +44,6 @@ yarn typeorm entity:create -n Users
 - Flow
 
 Entity < - > ORM < - > DB
+
+> Repositories
+- [Why should you use the repository pattern?](https://makingloops.com/why-should-you-use-the-repository-pattern/#:~:text=The%20repository%20pattern%20is%20a,list%20items%20in%20a%20table.)
